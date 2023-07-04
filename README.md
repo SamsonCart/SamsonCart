@@ -9,15 +9,15 @@ Current Course(s): COP 3502C Fundamentals of Programming 1
 Looking to gain experience in the following: 
 
 -	C#
--	Flask
+-	React.js
 -	JavaScript
 -	Firebase
 -	MATLAB
 -	Java
 -	Agile
--	PHP
 -	HTML/CSS
 -	Rust
+-	Node.js
 
 
 
