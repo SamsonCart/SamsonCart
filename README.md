@@ -4,20 +4,21 @@ Novice coder. Journey begins May 2023 at University of Florida.
 
 Current skills: C, C++, Python, Dart
 
-Current Course(s): COP 3502C Fundamentals of Programming 1
+Current Course(s): Data Structures and Algorithms, Computer Systems and Organization
 
 Looking to gain experience in the following: 
 
 -	C#
 -	React.js
 -	JavaScript
+-	Node.js
+-	Java
 -	Firebase
 -	MATLAB
--	Java
--	Agile
 -	HTML/CSS
 -	Rust
--	Node.js
+-	Agile
+-	SCRUM
 
 
 
