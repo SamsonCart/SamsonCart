@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-Novice coder. Journey begins May 2023 at University of Florida. 
+Coder. Interested in Cybersecurity, Program Management, and Med-Tech. The Journey begins May 2023 at University of Florida. 
 
-Current skills: C, C++, Python, Java, JavaScript, Dart
+Current skills: C, C++, Python, Java, JavaScript, Dart, Jupyter Notebooks, Docker, MongoDB, Express.js, Vue.js, React, Node.js, Git/Github
 
-Current Course(s): Data Structures and Algorithms, Computer Systems and Organization, Agile, Scrum fundamentals
-
-Looking to gain experience in the following: 
-
--	C#
--	React.js
--	Firebase
--	MATLAB
--	Rust
-
+Current Course(s): Operating System, Databases, Data Science
 
 
 
