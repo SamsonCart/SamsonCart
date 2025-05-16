@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samson Carter
 
-🎓 **Computer Science Student @ University of Florida** (GPA: 3.91, graduating May 2025)  
+🎓 **Computer Science Student @ University of Florida** (GPA: 3.92, graduated May 2025)  
 🔐 **Cybersecurity | Program Management | MedTech**  
 📍 Based in Merrimack, NH | [LinkedIn](https://www.linkedin.com/in/samsongcarter) | 📫 samsoncarter@ufl.edu
 
