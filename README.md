@@ -16,6 +16,11 @@ My passion lies in **mission-driven work** that blends people, process, and code
 
 ## 🛠️ Current Focus
 
+- **Gainer Scraper**: A python based scraper code to transfer daily stock exchange prices into an SQL database, allowing for more deliberate decision making for daily stock purchases and sales. Uses pandas, playwright, Jupyter Notebook. 
+---
+
+## 🧠 Favorite Past Projects
+
 - **CyberGators**: A real-time cyber resiliency engine (Bayesian Networks, Fuzzy Logic, FSM, CVE-based scoring)
 - **ML + Real Estate**: Price prediction with XGBoost, Random Forest, and ANN on the Ames Housing dataset
 - **Service Platforms**: Full-stack booking app using the MEVN stack under 4-week sprint cycles
