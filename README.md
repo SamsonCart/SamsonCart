@@ -16,7 +16,8 @@ My passion lies in **mission-driven work** that blends people, process, and code
 
 ## 🛠️ Current Focus
 
-- **Gainer Scraper**: A python based scraper code to transfer daily stock exchange prices into an SQL database, allowing for more deliberate decision making for daily stock purchases and sales. Uses pandas, playwright, Jupyter Notebook. 
+- **Gainer Scraper**: A python based scraper code to transfer daily stock exchange prices into an SQL database, allowing for more deliberate decision making for daily stock purchases and sales. Uses pandas, playwright, Jupyter Notebook.
+- **Learning COBOL**: Learning the fundamentals of COBOL coding langauge using VMWare for Linux Mint OS hosting, GNUCobol to compile and gedit and geany for code drafting. Next steps will be to use z/OS and JCL to better understand how IBM uses COBOL in mainframe settings. 
 ---
 
 ## 🧠 Favorite Past Projects
